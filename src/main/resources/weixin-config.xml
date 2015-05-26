@@ -1,0 +1,7 @@
+<xml>
+    <appId>Wx6abf1fd4bc589d0a</appId>
+    <secret>69713d835931b4597df89b3a838a5601</secret>
+    <token>111</token>
+    <aesKey>bKdT43K1gmBuKxynasE0ep1TOH3Uyn7ZufZmMAuXxlJ</aesKey>
+    <oauth2redirectUri>http://hongpf.ngrok.io/oauth2</oauth2redirectUri>
+</xml>
